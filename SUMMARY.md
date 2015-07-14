@@ -10,4 +10,5 @@
        * JavaScript
    * Git work-flow
        * Commits
+       * Branching
 
