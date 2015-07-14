@@ -9,7 +9,7 @@
        * Ruby
        * JavaScript
    * [Git work-flow](code/git_work-flow.md)
-       * Commits
+       * [Commits](code/git/commits.md)
        * Branching
        * Pull-Requests
    * Continuous Delivery
