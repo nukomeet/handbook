@@ -18,7 +18,7 @@
    * HAL
    * Mort
    * Toggl
-* Communication
+* [Communication](communication.md)
    * E-mails
    * HipChat
    * Asana
