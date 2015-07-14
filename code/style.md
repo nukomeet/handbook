@@ -27,3 +27,15 @@ How many spaces? In most languages you should use 2, except where it is prohibit
 ### Exceptions
 
 In some cases you cannot use spaces, as syntax depends on them. The most popular one (and only one in this guide) is `Makefile`. Keep in mind that you should use only tabs there.
+
+## Code smells
+
+We all should work on code that is easy to read and fun to maintain. To keep it that way you should learn and keep to some simple rules:
+
+### Do not Repeat Yourself
+
+If some code has similar purpose and is needed in more than 2 places then it should be a method (or macro). Always. Period.
+
+### Keep thing simple
+
+If you _think_ that client would like to have some feature that (s)he doesn't specified then, belive me, they dont need it at all. Don't overcomplicate codebase just in sake of imaginary features. Keep things as simple as possible
