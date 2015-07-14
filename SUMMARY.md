@@ -6,4 +6,5 @@
        * Ruby
        * Clojure
        * CSS
+       * Bash
 
