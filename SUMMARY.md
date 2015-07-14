@@ -8,7 +8,7 @@
        * CSS
        * Ruby
        * JavaScript
-   * [Git work-flow](git_work-flow.md)
+   * [Git work-flow](code/gitwork_-flowmd.md)
        * Commits
        * Branching
        * Pull-Requests
