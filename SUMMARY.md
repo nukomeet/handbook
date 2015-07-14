@@ -12,4 +12,5 @@
        * Commits
        * Branching
        * Pull-Requests
+   * Continuous Delivery
 
