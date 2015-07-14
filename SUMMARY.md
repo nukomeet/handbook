@@ -21,4 +21,5 @@
 * Communication
    * E-mails
    * HipChat
+   * Asana
 
