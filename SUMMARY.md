@@ -8,4 +8,5 @@
        * CSS
        * Ruby
        * JavaScript
+   * Git work-flow
 
