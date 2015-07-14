@@ -4,8 +4,8 @@
 * [Code](code.md)
    * [Code style](code/style.md)
        * Bash
-       * Ruby
        * Clojure
        * CSS
+       * Ruby
        * JavaScript
 
