@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Code](code.md)
-   * Code style
+   * [Code style](code/style.md)
 
