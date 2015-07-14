@@ -15,4 +15,5 @@
    * Continuous Delivery
 * Graphic Design
 * Tooling
+   * HAL
 
