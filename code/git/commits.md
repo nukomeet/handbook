@@ -6,7 +6,7 @@ In Nukomeet we use very strict commit naming convention that help us with furthe
 
 Template that we use looks like:
 
-```raw
+```
 <commit type>: <short description>
 
 <further, longer description>
