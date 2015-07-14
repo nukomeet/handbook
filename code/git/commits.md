@@ -24,7 +24,7 @@ To allow us to extract what was type of commit we begins our commit messages wit
 | -------- | ----------- | ------- |
 | `improv` | Refactoring and code style improvements | 2:2 |
 | `feat`   | New features
-| `fix`     |
+| `fix`     | Code fixes |
 | `docs`   |
 | `style`  |
 | `test`   |
