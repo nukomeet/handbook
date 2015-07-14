@@ -24,7 +24,7 @@ We are a team of developers who want to make awesome software that will lead our
 3. Tooling
     - HAL
     - Mort
-    - SSH
+    - Toggl
 4. Communication
     - E-mails
     - HipChat
