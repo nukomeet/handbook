@@ -43,6 +43,7 @@ This is place where you should add short description of Your work. No more than 
 
 - `improv: coding`
 - `fix: that was wrong`
+- `fix: hauleth is an idiot` (this is bad commit name even if it is true)
 - `test: write tests to check credentials for signed in and anonymous users`
 
 ## Long description (optional)
