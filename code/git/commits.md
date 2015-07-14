@@ -7,11 +7,11 @@ In Nukomeet we use very strict commit naming convention that help us with furthe
 Template that we use looks like:
 
 ```
-<commit type>: <short description>
+{commit type}: {short description}
 
-<further, longer description>
+{further, longer description}
 
-<issues relationship> [<work time>]
+{issues relationship} [{work time}]
 ```
 
 Don't worry if it looks complicated. Only some of this fields are required and it is very easy to get used to.
