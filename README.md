@@ -1,5 +1,5 @@
-Nukomeet Handbook
-=================
+Hitchhiker Guide to the Nukomeet
+================================
 
 Welcome to [Nukomeet](http://nukomeet.com)!
 
