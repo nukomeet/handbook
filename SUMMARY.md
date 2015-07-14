@@ -7,4 +7,5 @@
        * Clojure
        * CSS
        * Bash
+       * JavaScript
 
