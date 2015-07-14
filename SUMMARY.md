@@ -13,4 +13,5 @@
        * Branching
        * Pull-Requests
    * Continuous Delivery
+* Graphic Design
 
