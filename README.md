@@ -11,8 +11,8 @@ We are a team of developers who want to make awesome software that will lead our
     1. Code style
         - Bash
         - Clojure
+        - CSS
         - Ruby
-        - SCSS/Sass
         - JavaScript
     2. Git work-flow
         1. Commit naming
