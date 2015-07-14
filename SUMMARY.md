@@ -6,8 +6,8 @@
        * Bash
        * Clojure
        * CSS
-       * Ruby
        * JavaScript
+       * Ruby
    * [Git work-flow](code/git_work-flow.md)
        * [Commits](code/git/commits.md)
        * Branching
