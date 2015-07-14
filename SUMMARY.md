@@ -20,4 +20,5 @@
    * Toggl
 * Communication
    * E-mails
+   * HipChat
 
