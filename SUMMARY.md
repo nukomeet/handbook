@@ -9,4 +9,5 @@
        * Ruby
        * JavaScript
    * Git work-flow
+       * Commits
 
