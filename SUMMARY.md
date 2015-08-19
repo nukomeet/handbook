@@ -6,20 +6,21 @@
        * Clojure
        * CSS
        * Elixir
-          * Phoenix
+           * Phoenix
        * [JavaScript](code/style/js.md)
-          * React
-          * AngularJS
+           * React
+           * AngularJS
        * [Ruby](code/style/ruby.md)
-          * Rails
+           * Rails
        * [Shell](code/style/shell.md)
    * [Git work-flow](code/git.md)
        * [Commits](code/git/commits.md)
        * Branching
        * Pull-Requests
    * Continuous Delivery
+   * Validations
 * Graphic Design
-    * Fonts
+   * Fonts
 * [Tooling](tooling.md)
    * HAL
    * Mort
@@ -28,3 +29,4 @@
    * E-mails
    * HipChat
    * Asana
+
