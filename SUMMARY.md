@@ -18,7 +18,7 @@
        * Branching
        * Pull-Requests
    * Validations
-       * Rails
+       * [Rails](rails.md)
    * Continuous Delivery
 * Graphic Design
    * Fonts
