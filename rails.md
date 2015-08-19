@@ -1,2 +1,0 @@
-# Common validations for Rails
-
