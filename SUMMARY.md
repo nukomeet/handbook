@@ -17,9 +17,9 @@
        * [Commits](code/git/commits.md)
        * Branching
        * Pull-Requests
-   * Continuous Delivery
    * Validations
        * Rails
+   * Continuous Delivery
 * Graphic Design
    * Fonts
 * [Tooling](tooling.md)
