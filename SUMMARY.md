@@ -19,6 +19,7 @@
        * Pull-Requests
    * Continuous Delivery
    * Validations
+       * Rails
 * Graphic Design
    * Fonts
 * [Tooling](tooling.md)
