@@ -1,5 +1,4 @@
-Hitchhiker's Guide to the Nukomeet
-================================
+# Hitchhiker's Guide to Nukomeet
 
 Welcome to [Nukomeet](http://nukomeet.com)!
 
