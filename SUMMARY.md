@@ -3,17 +3,23 @@
 * [Introduction](README.md)
 * [Code](code.md)
    * [Code style](code/style.md)
-       * Bash
        * Clojure
        * CSS
-       * JavaScript
-       * Ruby
-   * [Git work-flow](code/git_work-flow.md)
+       * Elixir
+          * Phoenix
+       * [JavaScript](code/style/js.md)
+          * React
+          * AngularJS
+       * [Ruby](code/style/ruby.md)
+          * Rails
+       * [Shell](code/style/shell.md)
+   * [Git work-flow](code/git.md)
        * [Commits](code/git/commits.md)
        * Branching
        * Pull-Requests
    * Continuous Delivery
 * Graphic Design
+    * Fonts
 * [Tooling](tooling.md)
    * HAL
    * Mort
@@ -22,4 +28,3 @@
    * E-mails
    * HipChat
    * Asana
-

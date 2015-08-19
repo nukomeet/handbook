@@ -20,14 +20,14 @@ Don't worry if it looks complicated. Only some of this fields are required and i
 
 To allow us to extract what was type of commit we begins our commit messages with commit type tag. There are a few of them:
 
-| Name     | Description |
-| -------- | ----------- |
+| Name     | Description                             |
+| -------- | --------------------------------------- |
 | `improv` | Refactoring and code style improvements |
-| `feat`   | New features |
-| `fix`     | Code fixes |
-| `docs`   | Documentation |
-| `style`  | CSS styling |
-| `test`   | Testing |
+| `feat`   | New features                            |
+| `fix`    | Code fixes                              |
+| `docs`   | Documentation                           |
+| `style`  | CSS styling                             |
+| `test`   | Testing                                 |
 
 ## Short description (required)
 

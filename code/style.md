@@ -38,11 +38,11 @@ If some code has similar purpose and is needed in more than 2 places then it sho
 
 ### Keep thing simple
 
-If you _think_ that client would like to have some feature that (s)he doesn't specified then, belive me, they don't need it at all. Don't overcomplicate codebase just in sake of imaginary features. Keep things as simple as possible, but keep in mind that this must be replaceable.
+If you _think_ that client would like to have some feature that (s)he doesn't specified then, believe me, they don't need it at all. Don't overcomplicate codebase just in sake of imaginary features. Keep things as simple as possible, but keep in mind that this must be replaceable.
 
 ### Make it readable
 
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. 
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 This is the best motivational quote about writing readable code.
 
